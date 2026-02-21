@@ -15,7 +15,7 @@ Learning token-based authentication using JWT, Node.js (Express) and vanilla JS.
 ## Setup
 
 1. Clone the repo
-   git clone https://github.com/yourusername/token-based-auth.git
+   git clone [https://github.com/Prasad1-S/token-based-auth.git](https://github.com/Prasad1-S/token-based-auth.git)
    cd token-based-auth
 
 2. Install dependencies
