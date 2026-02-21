@@ -5,8 +5,7 @@ import env from "dotenv";
 
 // Mimicing DB
 const users = [
-    {id:1, username:'prasad', password:'prasadji'},
-    {id:2, username:'ghosh',password:'ghoshji'},
+    {id:1, username:'prasad', password:'prasadji'}
 ];
 
 const SECRET = process.env.SECRET;
